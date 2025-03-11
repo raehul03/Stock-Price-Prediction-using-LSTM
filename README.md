@@ -1,0 +1,1 @@
+Main Obsjective is to to design and implement an LSTM-based machine learning model to predict future stock prices based on historical data, leveraging the ability of LSTMs to capture long-term dependencies in sequential data.
